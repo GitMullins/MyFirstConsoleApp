@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.deps.json
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.dll
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.pdb
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.dll
+C:\Users\test\source\repos\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.pdb
